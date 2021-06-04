@@ -248,8 +248,8 @@
         "player_uuid": "4efd9b62-d66d-4b88-a4cc-1968eaa33edc",
         "type": "SPECIAL",
         "color": {
-          "primary": "9b90ff",
-          "border": "8778ff"
+          "primary": "ff9090",
+          "border": "ff7878"
         }
       }
     ],
